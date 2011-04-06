@@ -26,3 +26,10 @@ h2. Source
 <p>
   You can always get the latest sources from our <a href='/source.html'>Subversion or Git repository</a>.
 </p>
+
+h2. Bridge Support Preview
+
+<p>
+You can download <a href="http://www.macruby.org/files/BridgeSupport%20Preview%203.zip">Bridge Support Preview 3</a> as a standalone binary installer.
+<em>Note: Bridge Support is needed in order to access some of the lower level libraries in Cocoa. Read the original <a href="http://www.macruby.org/blog/2010/10/08/bridgesupport-preview.html">blog post</a>.
+<p/>
